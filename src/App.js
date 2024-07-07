@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          This is a react app to be pushed on s3 using git actions.
+          This is a react app to be pushed on s3 using git actions...
         </p>
         
       </header>
